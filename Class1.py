@@ -59,10 +59,9 @@ while Contador < 100 and online:
 # Bucle o ciclo For
 print("/////////////////")
 
-for i in range(4):
+for i in range(7):
     print(i)
 print("////////////////")
 
-for c in range(5):
+for c in range(2):
     print("Feliz Cumpleaños Yureymi")
-asdasds
